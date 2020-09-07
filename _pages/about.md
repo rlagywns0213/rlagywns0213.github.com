@@ -16,7 +16,6 @@ toc: true
 <p>찾아와주셔서 감사합니다.</p>
 
 ## Introduction
-
 > HYOJUN KIM
 
 * "1997. 2. 13"
@@ -70,6 +69,17 @@ check the [posts archive][year-archive].
 - English
 
 ### Extra:
+
+- Leadership – Worked as Club President
+- Skillful at Python, R
+- Familiar with collaboration through tools such as Slack.
+- Very adaptable to new one
+- Interested in Health Care
+- 네이버바로가기 - [naver](https://naver.com)
+
+### Where I been:
+
+<p><img src="https://tistory3.daumcdn.net/tistory/4184006/skin/images/world.svg" alt="worldmap" /></p>
 
 - Leadership – Worked as Club President
 - Skillful at Python, R
