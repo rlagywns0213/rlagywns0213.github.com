@@ -105,7 +105,7 @@ print("Missing values for Test dataset")
 describe_missing_values(test)
 ```
 
-[##_Image|kage@Vf67l/btqH2ygVj84/9YobhhiAG8nRXyLkjGxCV0/img.png|alignLeft|data-origin-width="0" data-origin-height="0" data-ke-mobilestyle="widthContent"|||_##]
+![image](https://blog.kakaocdn.net/dn/Vf67l/btqH2ygVj84/9YobhhiAG8nRXyLkjGxCV0/img.png)
 
 **1.3 종속변수 데이터 확인**
 
@@ -117,15 +117,12 @@ print('Class 1:', target1)
 print('Proportion:', round(target0 / target1, 2), ': 1')
 
 train['target'].value_counts().plot(kind='bar', title='Count (target)');
-
-#편향된 데이터 --> 오버샘플링?, 다운샘플링?
 ```
-
-![image](https://blog.kakaocdn.net/dn/Vf67l/btqH2ygVj84/9YobhhiAG8nRXyLkjGxCV0/img.png)
+![image](https://user-images.githubusercontent.com/28617444/92388897-fcda5200-f152-11ea-8056-269e1cbd6693.PNG)
 
 매우 편향된 데이터임을 확인할 수 있다. 오버샘플링 / 다운샘플링 을 시도해보고 평가 지표를 비교해본다.
 
-1.4 그래프를 통한 확인
+**1.4 그래프를 통한 확인**
 
 데이터가 column별로 편향되어있는지를 확인한다.
 
@@ -170,6 +167,7 @@ for col in integer:
     plt.show()
 
 ```
+![image](https://user-images.githubusercontent.com/28617444/92389061-4d51af80-f153-11ea-9711-5251e9f57a08.PNG)
 
 > 매우 편향된 데이터 "ps\_ind\_10\_bin", "ps\_ind\_11\_bin", "ps\_ind\_12\_bin", "ps\_ind\_13\_bin"를 파악함.  
 > 위의 변수들을 제거해준다.
