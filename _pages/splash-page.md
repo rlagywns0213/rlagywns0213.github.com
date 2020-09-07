@@ -19,7 +19,7 @@ feature_row:
     alt:
     title:
     excerpt:
-  - image_path: /assets/images/me2.jpg.
+  - image_path: /assets/images/me2.jpg
     image_caption:
     alt:
     title:
