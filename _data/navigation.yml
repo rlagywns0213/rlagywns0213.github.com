@@ -1,13 +1,16 @@
 # main links
 main:
+  - title: "Home"
+    url: /splash-page/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
+#  - title: "About"
+#    url: /about/
   - title: "Posts archive"
     url: /year-archive/
+
 # - title: "Quick-Start Guide"
 #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
