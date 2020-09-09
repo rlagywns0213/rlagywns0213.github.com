@@ -1,6 +1,7 @@
 ---
 title:  "캐글 데이터 EDA -PortoSeguro"
-
+header:
+  teaser: "https://user-images.githubusercontent.com/28617444/92389061-4d51af80-f153-11ea-9711-5251e9f57a08.PNG"
 excerpt: "캐글 데이터로 EDA, 데이터 전처리를 시도해보며 인사이트 도출하고자 한다"
 categories:
   - Data Analysis

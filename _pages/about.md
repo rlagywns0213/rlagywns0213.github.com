@@ -7,7 +7,7 @@ layouts_gallery:
     image_path: /assets/images/me.jpg
     alt: "/assets/images/me.pngdd"
 
-last_modified_at: 2020-09-05T10:15:22-04:00
+last_modified_at: 2020-09-10T10:15:22-04:00
 toc: true
 ---
 
@@ -21,6 +21,7 @@ toc: true
 * "1997. 2. 13"
 * 경희대학교 산업경영공학과 3학년 재학
 * 대한민국 해양의무경찰 (17.08.21 ~ 19.06.29)
+
 ## Education
 
 - B.Eng. in Industrial & Management Systems Engineering,
@@ -30,6 +31,8 @@ KyungHEE Univ.(2016 ~)
 Intensive Engineering Program
 – The University of Auckland in New Zealand(2020)
 
+## Certificate
+ - [TensorFlow Developers Certificate](https://www.credential.net/9d0112c9-3078-4433-b416-c3f12a9f13e6)
 
 ## Project Experience
 
@@ -60,8 +63,8 @@ check the [posts archive][year-archive].
 
 - Optimization
 - Statistics
-- Data Science
-- tensorflow Developer - [Certificate](https://www.credential.net/9d0112c9-3078-4433-b416-c3f12a9f13e6)
+- Data Science / Python, Pandas, Numpy, Matplotlib, Seaborn, R
+- Deep Learning / Tensorflow, Keras
 
 ### Languages
 
@@ -74,20 +77,11 @@ check the [posts archive][year-archive].
 - Skillful at Python, R
 - Familiar with collaboration through tools such as Slack.
 - Very adaptable to new one
-- Interested in Health Care
-- 네이버바로가기 - [naver](https://naver.com)
+- Interested in NLP
 
 ### Where I been:
 
 <p><img src="https://tistory3.daumcdn.net/tistory/4184006/skin/images/world.svg" alt="worldmap" /></p>
-
-- Leadership – Worked as Club President
-- Skillful at Python, R
-- Familiar with collaboration through tools such as Slack.
-- Very adaptable to new one
-- Interested in Health Care
-- 네이버바로가기 - [naver](https://naver.com)
-
 ---
 
 .
