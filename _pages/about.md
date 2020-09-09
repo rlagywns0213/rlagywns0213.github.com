@@ -21,7 +21,6 @@ toc: true
 * "1997. 2. 13"
 * 경희대학교 산업경영공학과 3학년 재학
 * 대한민국 해양의무경찰 (17.08.21 ~ 19.06.29)
-
 ## Education
 
 - B.Eng. in Industrial & Management Systems Engineering,
@@ -62,6 +61,7 @@ check the [posts archive][year-archive].
 - Optimization
 - Statistics
 - Data Science
+- tensorflow Developer - [Certificate](https://www.credential.net/9d0112c9-3078-4433-b416-c3f12a9f13e6)
 
 ### Languages
 

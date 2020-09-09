@@ -1,7 +1,7 @@
 ---
 title:  "분류 성능 평가 지표 정리 - 파이썬 머신러닝 완벽 가이드"
 header:
-  teaser: "/assets/images/500x300.png"
+  teaser: "/assets/images/book2.jpeg"
 
 excerpt: "머신러닝 분류 모델의 성능 평가를 위한 지표를 정리하고자 한다."
 categories:
