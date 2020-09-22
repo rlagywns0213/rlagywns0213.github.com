@@ -42,8 +42,8 @@ Intensive Engineering Program
 | ------------------------------------------- | ----------------------------------------------------- | ---------------------- |
 | (Web) Reservation System(2017-1) | Overall development with HTML, PHP, SQL   |
 | (ML) Sentimental Analysis(2019-2) | Overall development with Python (Keras)  | [Go to post]({% post_url 2020-09-05-cafemap %})
-| (Data Visualization) Cafemap (2020-1) | Overall development with Python (Selenium, folium)  |[Go to post]({% post_url 2020-09-05-cafemap %})
-| (Study) H1GHR DEV. STUDY<br>(2020.03.16 ~ 2020.04.20) | Studied Javascript, Notion, Slack etc.  | [Go To Link](https://www.notion.so/h1ghr/H1ghr-846547f6ea614adea824ca61828931f9)      / [Go To Code](https://github.com/rlagywns0213/Vanillajs)
+| (Data Visualization) Cafemap (2020-1) | Overall development with Python (Selenium, folium)  |[Go to Link]({% post_url 2020-09-05-cafemap %}){: .btn .btn--success}
+| (Study) H1GHR DEV. STUDY<br>(2020.03.16 ~ 2020.04.20) | Studied Javascript, Notion, Slack etc.  | [Go to Link](https://www.notion.so/h1ghr/H1ghr-846547f6ea614adea824ca61828931f9){: .btn .btn--success}  <br> 
 | (Data Analysis) Classification Analysis(2020-1) | Overall development with R |[Go to post]({% post_url 2020-09-05-cafemap %})
 | (Data Analysis) K-means Analysis(2020-1) | Overall development with R |[Go to post]({% post_url 2020-09-05-cafemap %})
 
