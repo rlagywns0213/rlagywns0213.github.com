@@ -271,7 +271,8 @@ defaults:
       comments: true # true
       share: true
       related: true
-
+      toc_ads: true #광고위함
+      toc_sticky: true #광고위함
   # _pages
   - scope:
       path: "_pages"
