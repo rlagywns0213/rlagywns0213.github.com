@@ -18,14 +18,14 @@ toc_label: "On this page"
 ---
 ## 0\. 들어가며
 
-fasttext 에 관련된 논문은 [여기](https://arxiv.org/abs/1607.04606) 에서 확인할 수 있다.
-<br> 또한, 관련 코드 [github주소](https://github.com/facebookresearch/fastText)이다.
+fasttext 에 관련된 논문은 [여기](https://arxiv.org/abs/1607.04606) 에서 확인할 수 있습니다.
+<br> 또한, 관련 코드 [github주소](https://github.com/facebookresearch/fastText)입니다.
 ## 1\. Abstract
 
 본 논문에서는 각 단어가 **bag of character n-grams** 으로 표현되는 skip-gram 모델을 바탕으로 새로운 접근법을 제안합니다. <br>
 
 > 즉, fasttext는 개별 단어가 아닌 n-gram의 Charaters를 Embedding
-각 단어는 Embedding된 n-gram의 합으로 표현됨
+각 단어는 Embedding된 n-gram의 합으로 표현됩니다!
 
 **그 결과 : 빠르고 좋은 성능**
 
@@ -72,4 +72,4 @@ scoring function: (word, context) 쌍을 점수로 map시키는 문맥의 가능
 Example
 > where 및 n = 3이라는 단어를 예로 들면, <br>
 character n-grams : <wh, wh, her, ere, re> <br>
-special sequence : <where>
+special sequence : < where > 
