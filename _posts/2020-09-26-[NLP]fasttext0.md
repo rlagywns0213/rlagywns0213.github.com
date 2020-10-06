@@ -2,12 +2,11 @@
 title:  "[Python] fasttext 설치 및 실습 코드(예제)"
 header:
   teaser: ""
-
 excerpt: "fasttext 라이브러리를 윈도우에서 설치하는 법과 코드를 간단히 설명하고자 합니다."
 categories:
-  - fasttext
+  - NLP
 tags:
-  - Python
+  - fasttext
   - NLP
 
 last_modified_at: 2020-09-26T16:01:04-04:00
