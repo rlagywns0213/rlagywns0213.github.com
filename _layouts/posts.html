@@ -7,8 +7,6 @@ layout: archive
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in postsInYear %}
-  <img style="width: inherit;" src="http://hits.dwyl.com/rlagywns0213.github.io{{ page.url }}.svg" alt="hit count image"/>
-
     <li>
       <a href="#{{ year.name }}">
         <strong>{{ year.name }}</strong> <span class="taxonomy__count">{{ year.items | size }}</span>
@@ -21,6 +19,13 @@ layout: archive
 {% for year in postsByYear %}
   <section id="{{ year.name }}" class="taxonomy__section">
     <h2 class="archive__subtitle">{{ year.name }}</h2>
+    <div style="text-align: center;">
+   <a href="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}"
+     target="_blank">
+     <img
+       src="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}.svg" />
+   </a>
+ </div>
     <div class="entries-{{ entries_layout }}">
       {% for post in year.items %}
         {% include archive-single.html type=entries_layout %}

@@ -13,7 +13,6 @@ last_modified_at: 2020-09-26T16:01:04-04:00
 toc: false
 toc_ads: true
 toc_label: "On this page"
-<img style="width: inherit;" src="http://hits.dwyl.com/rlagywns0213.github.io{{ page.url }}.svg" alt="hit count image"/>
 ---
 ## 0\. 설치
 
