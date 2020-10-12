@@ -16,7 +16,6 @@ layout: archive
     </li>
   {% endfor %}
 </ul>
-<img style="width: inherit;" src="http://hits.dwyl.com/rlagywns0213.github.io{{ page.url }}.svg" alt="hit count image"/>
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 {% assign postsByYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 {% for year in postsByYear %}
