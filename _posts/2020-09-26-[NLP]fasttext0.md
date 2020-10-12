@@ -13,7 +13,9 @@ last_modified_at: 2020-09-26T16:01:04-04:00
 toc: false
 toc_ads: true
 toc_label: "On this page"
+<img style="width: inherit;" src="http://hits.dwyl.com/dev-yakuza.github.io{{ page.url }}.svg" alt="hit count image"/>
 ---
+이 페이지 조회수 : <img style="width: inherit;" src="http://hits.dwyl.com/dev-yakuza.github.io{{ page.url }}.svg" alt="hit count image"/>
 ## 0\. 설치
 
 <br> fasttext 관련 코드 [github주소](https://github.com/facebookresearch/fastText)입니다.<br>
