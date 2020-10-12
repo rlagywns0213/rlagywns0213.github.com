@@ -16,7 +16,7 @@ toc_ads: true
 toc_label: "On this page"
 
 ---
-이 페이지 조회수 : [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Frlagywns0213.github.io%2Fdata%2520analysis%2Fevaluation%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Frlagywns0213.github.io%2Fdata%2520analysis%2Fevaluation%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 ## 0\. 들어가며
 
 머신러닝은 데이터가공/변환, 모델 학습/예측, 그리고 **평가**의 프로세스로 구성된다.
