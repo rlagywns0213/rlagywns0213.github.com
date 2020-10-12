@@ -16,8 +16,7 @@ toc_ads: true
 toc_label: "On this page"
 
 ---
-이 페이지 조회수 : <img style="width: inherit;" src="http://hits.dwyl.com/rlagywns0213.github.io{{ page.url }}.svg" alt="hit count image"/>
-이 페이지 조회수 : [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Frlagywns0213.github.io%2Fnlp%2FNLP-fasttext0%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+이 페이지 조회수 :[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Frlagywns0213.github.io%2Fnlp%2FNLP-fasttext%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 ## 0\. 들어가며
 
 fasttext 에 관련된 논문은 [여기](https://arxiv.org/abs/1607.04606) 에서 확인할 수 있습니다.

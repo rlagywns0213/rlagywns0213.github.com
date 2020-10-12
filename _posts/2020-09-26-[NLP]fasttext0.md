@@ -14,7 +14,8 @@ toc: false
 toc_ads: true
 toc_label: "On this page"
 ---
-이 페이지 조회수 : <img style="width: inherit;" src="http://hits.dwyl.com/rlagywns0213.github.io{{ page.url }}.svg" alt="hit count image"/>
+이 페이지 조회수 :[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://rlagywns0213.github.io/nlp/NLP-fasttext0/&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
+이 페이지 조회수2 :[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Frlagywns0213.github.io{{ page.url }}%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)\
 ## 0\. 설치
 
 <br> fasttext 관련 코드 [github주소](https://github.com/facebookresearch/fastText)입니다.<br>
